@@ -1,0 +1,12 @@
+# Scripts internos de construcción (no forman parte de la entrega)
+_*.py
+
+# Entorno virtual
+.venv/
+
+# Cache de Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
